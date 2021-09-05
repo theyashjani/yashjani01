@@ -6,3 +6,6 @@
 <p align="left"> <a href="https://twitter.com/theyashjani" target="blank"><img src="https://img.shields.io/twitter/follow/theyashjani?logo=twitter&style=for-the-badge" alt="theyashjani" /></a> </p>
 
 E-mail **janiyash14@gmail.com**
+
+<h3 align="left">Languages:</h3>
+<p align="left">
