@@ -42,3 +42,4 @@ E-mail **janiyash14@gmail.com**
   <a href="https://www.linux.org/" target="_blank">
     
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+   </a>
