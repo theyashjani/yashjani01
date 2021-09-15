@@ -52,6 +52,10 @@ E-mail **janiyash14@gmail.com**
   </a>
   </p>
   
+  <p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjani01&show_icons=true&locale=en&layout=compact" alt="yashjani01" />
+ 
+  
   
   
   
