@@ -53,7 +53,7 @@ E-mail **janiyash14@gmail.com**
   </p>
   
   <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjani01&show_icons=true&locale=en&layout=compact" alt="yashjani01" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashjani01&" alt="yashjani01" />
  </p>
  
  <br><br><br><br><br><br><br>
@@ -62,8 +62,7 @@ E-mail **janiyash14@gmail.com**
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashjani01&show_icons=true&locale=en" alt="yashjani01" />
  </p>
  
- 
  <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashjani01&" alt="yashjani01" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjani01&show_icons=true&locale=en&layout=compact" alt="yashjani01" />
  </p>
   
