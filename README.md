@@ -66,7 +66,8 @@ E-mail **janiyash14@gmail.com**
  
  <br><br><br><br>
  
- [![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashjani01&theme=dracula)](https://github.com/yashjani01/github-readme-activity-graph)
+ <!--[![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashjani01&theme=dracula)](https://github.com/yashjani01/github-readme-activity-graph)-->
+ 
  
  
  
