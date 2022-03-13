@@ -9,7 +9,7 @@ E-mail **janiyash14@gmail.com**
 
 ### Stackoverflow stats 
 
-[![Mahesh's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=16676600&layout=compact)](https://stackoverflow.com/users/16676600/yash-jani)
+[![Yash's StackOverflow Profile](https://github-readme-stackoverflow.vercel.app/?userID=16676600&layout=compact)](https://stackoverflow.com/users/16676600/yash-jani)
 
 
 <h3 align="left">Languages:</h3>
